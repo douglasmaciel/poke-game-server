@@ -1,7 +1,0 @@
-{
-  "plugins": ["ts-immutable"],
-  "extends": [
-    "./node_modules/gts/",
-    "plugin:ts-immutable/recommended"
-  ]
-}

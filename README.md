@@ -1,6 +1,6 @@
 # poke-game-server
 
-Exercício Typescript
+Exercício Go
 
 # Ideia
 
